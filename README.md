@@ -13,7 +13,7 @@ python (3.6.9)
 
 "CovNet_SRM_filters" contains the 30 fixed SRM filters and used in Proposed-SCA-CovNet.py 
 
-"J-YeNet_SRM_filters" contains the 30 basic SRM filters and used in Proposed-SCA-J-YeNet.py 
+"SRM_kernels" contains the 30 basic SRM filters and used in Proposed-SCA-J-YeNet.py 
 
 
 Example: 
