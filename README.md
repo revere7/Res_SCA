@@ -11,9 +11,9 @@ python (3.6.9)
 ## Use
 "Proposed-SCA-CovNet.py" and "Proposed-SCA-J-YeNet.py" are the main program in spatial and JPEG domain, respectively. 
 
-"CovNet_SRM_filters" contains the 30 fixed SRM filters and used in Proposed-SCA-CovNet.py 
+"CovNet_SRM_filters.py" contains the 30 fixed SRM filters and used in Proposed-SCA-CovNet.py 
 
-"SRM_kernels" contains the 30 basic SRM filters and used in Proposed-SCA-J-YeNet.py 
+"SRM_kernels.npy" contains the 30 basic SRM filters and used in Proposed-SCA-J-YeNet.py 
 
 
 Example: 
